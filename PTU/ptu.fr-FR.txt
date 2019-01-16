@@ -330,9 +330,9 @@ PTUFormsApplication.ResManager.tabPage.monitorMain.mainMonitoring.panel1.label22
 PTUFormsApplication.ResManager.tabPage.monitorMain.mainMonitoring.panel1.label52.label52=Adresse IP
 PTUFormsApplication.ResManager.tabPage.monitorMain.mainMonitoring.label43.label43=Reseau
 PTUFormsApplication.ResManager.tabPage.monitorMain.mainMonitoring.label27.label27=PTU软件
+PTUFormsApplication.ResManager.tabPage.monitorMain.mainMonitoring.panel4.label18.label18=°
 PTUFormsApplication.ResManager.tabPage.monitorMain.mainMonitoring.panel4.label21.label21=Bar
 PTUFormsApplication.ResManager.tabPage.monitorMain.mainMonitoring.panel4.label20.label20=Bar
-PTUFormsApplication.ResManager.tabPage.monitorMain.mainMonitoring.panel4.label18.label18=%
 PTUFormsApplication.ResManager.tabPage.monitorMain.mainMonitoring.panel4.label15.label15=℃
 PTUFormsApplication.ResManager.tabPage.monitorMain.mainMonitoring.panel4.label14.label14=℃
 PTUFormsApplication.ResManager.tabPage.monitorMain.mainMonitoring.panel4.label13.label13=℃
